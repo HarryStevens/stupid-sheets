@@ -1,6 +1,6 @@
 {
   "name": "stupid-sheets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A stupid simple Google Sheets reader.",
   "main": "index.js",
   "scripts": {
