@@ -9,7 +9,7 @@ npm i stupid-sheets -S
 ## Usage
 stupid-sheets loads a published Google Sheet's data as JSON in Node.js.
 
-```
+```js
 const googleSheetsId = "1PP72fxscsKti-QYHjllLN2FSie12eollE1QMh1a47Rg";
 require("stupid-sheets")(googleSheetsId, json => {
   console.log(json);
